@@ -1,0 +1,23 @@
+{"time": "2024-06-14 13:32:57,402", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:32:57,403", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:32:57] "GET /blog HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:33:10,154", "name": "__main__", "level": "WARNING", "message": "Criação de um novo blog - POST"}
+{"time": "2024-06-14 13:33:10,155", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:33:10] "[35m[1mPOST /blog HTTP/1.0[0m" 201 -"}
+{"time": "2024-06-14 13:33:12,570", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:33:12,571", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:33:12] "GET /blog HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:34:40,227", "name": "__main__", "level": "WARNING", "message": "Listagem de um blog específico id 123- GET"}
+{"time": "2024-06-14 13:34:40,228", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:34:40] "[33mGET /blog/123 HTTP/1.0[0m" 404 -"}
+{"time": "2024-06-14 13:35:08,160", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:35:08] "[33mGET /blog/?id=123 HTTP/1.0[0m" 404 -"}
+{"time": "2024-06-14 13:35:16,830", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:35:16,830", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:35:16] "GET /blog?id=123 HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:35:36,825", "name": "__main__", "level": "WARNING", "message": "Criação de um novo blog - POST"}
+{"time": "2024-06-14 13:35:36,825", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:35:36] "[35m[1mPOST /blog HTTP/1.0[0m" 201 -"}
+{"time": "2024-06-14 13:35:46,049", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:35:46,049", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:35:46] "GET /blog?id=321 HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:36:19,620", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:36:19,621", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:36:19] "GET /blog?id=321 HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:36:23,571", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:36:23,571", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:36:23] "GET /blog?id=321&id=321 HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:37:22,586", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:37:22] "[31m[1mDELETE /blog?id=123 HTTP/1.0[0m" 405 -"}
+{"time": "2024-06-14 13:37:31,610", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:37:31] "[33mDELETE /blog/?id=123 HTTP/1.0[0m" 404 -"}
+{"time": "2024-06-14 13:37:43,370", "name": "__main__", "level": "WARNING", "message": "Deletar um blog específico id 123 - DELETE"}
+{"time": "2024-06-14 13:37:43,370", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:37:43] "[33mDELETE /blog/123 HTTP/1.0[0m" 404 -"}

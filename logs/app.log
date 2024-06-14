@@ -1,0 +1,83 @@
+{"time": "2024-06-14 13:38:19,994", "name": "__main__", "level": "WARNING", "message": "Deletar um blog específico id 321 - DELETE"}
+{"time": "2024-06-14 13:38:19,994", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:38:19] "[33mDELETE /blog/321 HTTP/1.0[0m" 404 -"}
+{"time": "2024-06-14 13:38:32,255", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:38:32,255", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:38:32] "GET /blog HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:40:48,729", "name": "__main__", "level": "WARNING", "message": "Atualização de um blog específico id 321 - PUT"}
+{"time": "2024-06-14 13:40:48,729", "name": "__main__", "level": "WARNING", "message": "Atualização de um blog específico id 321 - PUT - Não encontrado"}
+{"time": "2024-06-14 13:40:48,729", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:40:48] "[33mPUT /blog/321 HTTP/1.0[0m" 404 -"}
+{"time": "2024-06-14 13:42:57,332", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:42:57,332", "name": "werkzeug", "level": "INFO", "message": "172.20.0.1 - - [14/Jun/2024 13:42:57] "GET /blog?id=321&id=321 HTTP/1.1" 200 -"}
+{"time": "2024-06-14 13:43:02,031", "name": "__main__", "level": "WARNING", "message": "Deletar um blog específico id 321 - DELETE"}
+{"time": "2024-06-14 13:43:02,031", "name": "werkzeug", "level": "INFO", "message": "172.20.0.1 - - [14/Jun/2024 13:43:02] "[33mDELETE /blog/321 HTTP/1.1[0m" 404 -"}
+{"time": "2024-06-14 13:43:08,258", "name": "__main__", "level": "WARNING", "message": "Atualização de um blog específico id 321 - PUT"}
+{"time": "2024-06-14 13:43:08,258", "name": "__main__", "level": "WARNING", "message": "Atualização de um blog específico id 321 - PUT - Não encontrado"}
+{"time": "2024-06-14 13:43:08,259", "name": "werkzeug", "level": "INFO", "message": "172.20.0.1 - - [14/Jun/2024 13:43:08] "[33mPUT /blog/321 HTTP/1.1[0m" 404 -"}
+{"time": "2024-06-14 13:44:03,188", "name": "werkzeug", "level": "INFO", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000"}
+{"time": "2024-06-14 13:44:03,189", "name": "werkzeug", "level": "INFO", "message": "[33mPress CTRL+C to quit[0m"}
+{"time": "2024-06-14 13:44:03,190", "name": "werkzeug", "level": "INFO", "message": " * Restarting with stat"}
+{"time": "2024-06-14 13:44:03,303", "name": "werkzeug", "level": "WARNING", "message": " * Debugger is active!"}
+{"time": "2024-06-14 13:44:03,304", "name": "werkzeug", "level": "INFO", "message": " * Debugger PIN: 123-547-744"}
+{"time": "2024-06-14 13:44:23,916", "name": "werkzeug", "level": "INFO", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000"}
+{"time": "2024-06-14 13:44:23,916", "name": "werkzeug", "level": "INFO", "message": "[33mPress CTRL+C to quit[0m"}
+{"time": "2024-06-14 13:44:23,918", "name": "werkzeug", "level": "INFO", "message": " * Restarting with stat"}
+{"time": "2024-06-14 13:44:24,037", "name": "werkzeug", "level": "WARNING", "message": " * Debugger is active!"}
+{"time": "2024-06-14 13:44:24,038", "name": "werkzeug", "level": "INFO", "message": " * Debugger PIN: 123-547-744"}
+{"time": "2024-06-14 13:44:38,953", "name": "werkzeug", "level": "INFO", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000"}
+{"time": "2024-06-14 13:44:38,953", "name": "werkzeug", "level": "INFO", "message": "[33mPress CTRL+C to quit[0m"}
+{"time": "2024-06-14 13:44:38,955", "name": "werkzeug", "level": "INFO", "message": " * Restarting with stat"}
+{"time": "2024-06-14 13:44:39,068", "name": "werkzeug", "level": "WARNING", "message": " * Debugger is active!"}
+{"time": "2024-06-14 13:44:39,068", "name": "werkzeug", "level": "INFO", "message": " * Debugger PIN: 123-547-744"}
+{"time": "2024-06-14 13:44:56,843", "name": "werkzeug", "level": "INFO", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000"}
+{"time": "2024-06-14 13:44:56,844", "name": "werkzeug", "level": "INFO", "message": "[33mPress CTRL+C to quit[0m"}
+{"time": "2024-06-14 13:44:56,845", "name": "werkzeug", "level": "INFO", "message": " * Restarting with stat"}
+{"time": "2024-06-14 13:44:56,955", "name": "werkzeug", "level": "WARNING", "message": " * Debugger is active!"}
+{"time": "2024-06-14 13:44:56,955", "name": "werkzeug", "level": "INFO", "message": " * Debugger PIN: 123-547-744"}
+{"time": "2024-06-14 13:45:24,416", "name": "werkzeug", "level": "INFO", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000"}
+{"time": "2024-06-14 13:45:24,416", "name": "werkzeug", "level": "INFO", "message": "[33mPress CTRL+C to quit[0m"}
+{"time": "2024-06-14 13:45:24,418", "name": "werkzeug", "level": "INFO", "message": " * Restarting with stat"}
+{"time": "2024-06-14 13:45:24,529", "name": "werkzeug", "level": "WARNING", "message": " * Debugger is active!"}
+{"time": "2024-06-14 13:45:24,529", "name": "werkzeug", "level": "INFO", "message": " * Debugger PIN: 123-547-744"}
+{"time": "2024-06-14 13:45:26,391", "name": "werkzeug", "level": "INFO", "message": "172.20.0.1 - - [14/Jun/2024 13:45:26] "[33mGET /321 HTTP/1.1[0m" 404 -"}
+{"time": "2024-06-14 13:46:19,384", "name": "__main__", "level": "WARNING", "message": "Listagem de um blog específico id 321- GET"}
+{"time": "2024-06-14 13:46:19,384", "name": "werkzeug", "level": "INFO", "message": "172.20.0.1 - - [14/Jun/2024 13:46:19] "[33mGET /blog/321 HTTP/1.1[0m" 404 -"}
+{"time": "2024-06-14 13:46:27,360", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:46:27,360", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:46:27] "GET /blog HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:46:36,083", "name": "__main__", "level": "WARNING", "message": "Criação de um novo blog - POST"}
+{"time": "2024-06-14 13:46:36,083", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:46:36] "[35m[1mPOST /blog HTTP/1.0[0m" 201 -"}
+{"time": "2024-06-14 13:46:38,118", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:46:38,118", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:46:38] "GET /blog HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:46:48,226", "name": "__main__", "level": "WARNING", "message": "Deletar um blog específico id 123 - DELETE"}
+{"time": "2024-06-14 13:46:48,227", "name": "werkzeug", "level": "INFO", "message": "172.20.0.1 - - [14/Jun/2024 13:46:48] "[33mDELETE /blog/123 HTTP/1.1[0m" 404 -"}
+{"time": "2024-06-14 13:46:52,137", "name": "__main__", "level": "WARNING", "message": "Criação de um novo blog - POST"}
+{"time": "2024-06-14 13:46:52,138", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:46:52] "[35m[1mPOST /blog HTTP/1.0[0m" 201 -"}
+{"time": "2024-06-14 13:46:54,297", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:46:54,297", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:46:54] "GET /blog HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:47:02,205", "name": "__main__", "level": "WARNING", "message": "Deletar um blog específico id 123 - DELETE"}
+{"time": "2024-06-14 13:47:02,205", "name": "werkzeug", "level": "INFO", "message": "172.20.0.1 - - [14/Jun/2024 13:47:02] "[33mDELETE /blog/123 HTTP/1.1[0m" 404 -"}
+{"time": "2024-06-14 13:47:06,918", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:47:06,919", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:47:06] "GET /blog HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:47:12,104", "name": "__main__", "level": "WARNING", "message": "Atualização de um blog específico id 321 - PUT"}
+{"time": "2024-06-14 13:47:12,104", "name": "__main__", "level": "WARNING", "message": "Atualização de um blog específico id 321 - PUT - Não encontrado"}
+{"time": "2024-06-14 13:47:12,105", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:47:12] "[33mPUT /blog/321 HTTP/1.0[0m" 404 -"}
+{"time": "2024-06-14 13:47:14,420", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:47:14,420", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:47:14] "GET /blog HTTP/1.0" 200 -"}
+{"time": "2024-06-14 13:47:23,126", "name": "__main__", "level": "WARNING", "message": "Atualização de um blog específico id 321 - PUT"}
+{"time": "2024-06-14 13:47:23,126", "name": "__main__", "level": "WARNING", "message": "Atualização de um blog específico id 321 - PUT - Não encontrado"}
+{"time": "2024-06-14 13:47:23,126", "name": "werkzeug", "level": "INFO", "message": "172.20.0.1 - - [14/Jun/2024 13:47:23] "[33mPUT /blog/321 HTTP/1.1[0m" 404 -"}
+{"time": "2024-06-14 13:47:26,868", "name": "__main__", "level": "WARNING", "message": "Listagem de todos os blogs - GET"}
+{"time": "2024-06-14 13:47:26,868", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:47:26] "GET /blog HTTP/1.0" 200 -"}

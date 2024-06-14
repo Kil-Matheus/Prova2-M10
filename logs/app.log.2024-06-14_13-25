@@ -1,0 +1,38 @@
+{"time": "2024-06-14 13:22:00,761", "name": "werkzeug", "level": "INFO", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000"}
+{"time": "2024-06-14 13:22:00,761", "name": "werkzeug", "level": "INFO", "message": "[33mPress CTRL+C to quit[0m"}
+{"time": "2024-06-14 13:22:00,763", "name": "werkzeug", "level": "INFO", "message": " * Restarting with stat"}
+{"time": "2024-06-14 13:22:00,886", "name": "werkzeug", "level": "WARNING", "message": " * Debugger is active!"}
+{"time": "2024-06-14 13:22:00,908", "name": "werkzeug", "level": "INFO", "message": " * Debugger PIN: 123-547-744"}
+{"time": "2024-06-14 13:22:10,501", "name": "__main__", "level": "INFO", "message": "Criação de um novo blog - POST"}
+{"time": "2024-06-14 13:22:10,502", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:22:10] "[35m[1mPOST /blog HTTP/1.0[0m" 201 -"}
+{"time": "2024-06-14 13:23:05,928", "name": "werkzeug", "level": "INFO", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000"}
+{"time": "2024-06-14 13:23:05,928", "name": "werkzeug", "level": "INFO", "message": "[33mPress CTRL+C to quit[0m"}
+{"time": "2024-06-14 13:23:05,930", "name": "werkzeug", "level": "INFO", "message": " * Restarting with stat"}
+{"time": "2024-06-14 13:23:06,089", "name": "werkzeug", "level": "WARNING", "message": " * Debugger is active!"}
+{"time": "2024-06-14 13:23:06,089", "name": "werkzeug", "level": "INFO", "message": " * Debugger PIN: 123-547-744"}
+{"time": "2024-06-14 13:23:11,215", "name": "__main__", "level": "WARNING", "message": "Criação de um novo blog - POST"}
+{"time": "2024-06-14 13:23:11,216", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:23:11] "[35m[1mPOST /blog HTTP/1.0[0m" 201 -"}
+{"time": "2024-06-14 13:23:39,124", "name": "werkzeug", "level": "INFO", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000"}
+{"time": "2024-06-14 13:23:39,124", "name": "werkzeug", "level": "INFO", "message": "[33mPress CTRL+C to quit[0m"}
+{"time": "2024-06-14 13:23:39,126", "name": "werkzeug", "level": "INFO", "message": " * Restarting with stat"}
+{"time": "2024-06-14 13:23:39,259", "name": "werkzeug", "level": "WARNING", "message": " * Debugger is active!"}
+{"time": "2024-06-14 13:23:39,259", "name": "werkzeug", "level": "INFO", "message": " * Debugger PIN: 123-547-744"}
+{"time": "2024-06-14 13:25:27,511", "name": "werkzeug", "level": "INFO", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000"}
+{"time": "2024-06-14 13:25:27,511", "name": "werkzeug", "level": "INFO", "message": "[33mPress CTRL+C to quit[0m"}
+{"time": "2024-06-14 13:25:27,513", "name": "werkzeug", "level": "INFO", "message": " * Restarting with stat"}
+{"time": "2024-06-14 13:25:27,638", "name": "werkzeug", "level": "WARNING", "message": " * Debugger is active!"}
+{"time": "2024-06-14 13:25:27,638", "name": "werkzeug", "level": "INFO", "message": " * Debugger PIN: 123-547-744"}
+{"time": "2024-06-14 13:25:58,521", "name": "__main__", "level": "WARNING", "message": "Criação de um novo blog - POST"}
+{"time": "2024-06-14 13:25:58,521", "name": "werkzeug", "level": "INFO", "message": "172.20.0.3 - - [14/Jun/2024 13:25:58] "[35m[1mPOST /blog HTTP/1.0[0m" 201 -"}
